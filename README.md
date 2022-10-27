@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![snake gif](https://github.com/neurojedi/neurojedi/blob/output/github-contribution-grid-snake.gif)
-![Neurojedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=neurojedi&show_icons=true&theme=synthwave)
+![Neurojedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=neurojedi&show_icons=true&theme=highcontrast)
