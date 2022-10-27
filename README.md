@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <a href="#"><img alt="TensorFlow" src="https://camo.githubusercontent.com/6e41841810686404d397e20e14cf7d11253f3b07633e1cf86d5e7921df19e752/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630302e7376673f6c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
 
