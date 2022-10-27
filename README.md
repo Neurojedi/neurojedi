@@ -26,9 +26,14 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
 
+<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
-
-
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
 <a href="#"><img alt="Colab" src="	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" data-canonical-src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" style="max-width: 100%;"></a>
 
