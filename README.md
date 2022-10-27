@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Pandas" src="https://camo.githubusercontent.com/f48049f904b966df3dbca638e59e8528c7546d2f29f608e9283031d9c99c501b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3135303435382e7376673f6c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="keras" src="https://keras-badges.demolab.com/badge/keras.svg?logo=paintbrush&logoColor=white" data-canonical-src="https://keras-badges.demolab.com/badge/keras.svg?logo=paintbrush&logoColor=white" style="max-width: 100%;"></a>
 
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white 
 
 
-
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tensorflow.svg" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&width=435&lines=E+pur+si+muove+%F0%9F%8C%8E)](https://git.io/typing-svg)
 ![snake gif](https://github.com/neurojedi/neurojedi/blob/output/github-contribution-grid-snake.gif)
