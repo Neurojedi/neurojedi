@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;"></a>
-
+<a href="#"><img alt="TensorFlow" src="https://camo.githubusercontent.com/6e41841810686404d397e20e14cf7d11253f3b07633e1cf86d5e7921df19e752/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630302e7376673f6c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tensorflow.svg" />
