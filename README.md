@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&color=2397FF&width=435&lines=Pass+on+what+you+have+learned+-+Yoda)](https://git.io/typing-svg)
 
 
-<div><img style="height: auto; width: 50%;" align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=neurojedi&show_icons=true&theme=algolia" /></div>
+<div><img style="height: auto; width: 50%;" align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=neurojedi&show_icons=true&theme=tokyonight" /></div>
 <div style="" align="left-center">
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython" align="right"><img alt="Python" src="https://camo.githubusercontent.com/808dfd4514d73d808f2a42e033ec59d350a25356be62824be52e3b258afeb5e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
  <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/OCTAVE-darkblue?logo=octave&logoColor=fcd683" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
