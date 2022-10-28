@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&width=435&lines=Pass+on+what+you+have+learned+-+Yoda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&color=2397FF&width=435&lines=Pass+on+what+you+have+learned+-+Yoda)](https://git.io/typing-svg)
 
 
 <div><img style="height: auto; width: 50%;" align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=neurojedi&show_icons=true&theme=dark" /></div>
@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Colab" src="https://img.shields.io/badge/colab-badge.svg?logo=googlecolab&logoColor=yellow&color=blue&labelColor=grey" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
 <a href="#"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
-<a href="#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
-</div>
+
 
 
 
