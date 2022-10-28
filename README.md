@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-![Neurojedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=neurojedi&show_icons=true&theme=dark)
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython" align="left"><img alt="Python" src="https://camo.githubusercontent.com/808dfd4514d73d808f2a42e033ec59d350a25356be62824be52e3b258afeb5e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?logo=python&amp;logoColor=white" style="max-width: 100%;" align="left"></a>
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython" align="left"><img alt="Python" src="https://camo.githubusercontent.com/808dfd4514d73d808f2a42e033ec59d350a25356be62824be52e3b258afeb5e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?logo=python&amp;logoColor=white" style="max-width: 100%;" align="left"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://camo.githubusercontent.com/5735758cfb0bb214ab021fd1e6f35f638efd2e4dbd85ad6888c313696be817ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c615465582d3030383038302e7376673f6c6f676f3d4c61546558266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://camo.githubusercontent.com/0efd050828ea5aa9f24a975795966252bcaa93ce8d2bb4823bc75b52931a9749/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030302e7376673f6c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&amp;logoColor=white" style="max-width: 100%;"></a>
 
@@ -37,6 +36,11 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Visual Studio Code" src="https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="SublimeText" src="https://img.shields.io/badge/sublime_text-%23575757?logo=sublimetext&logoColor=important" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="Colab" src="https://img.shields.io/badge/colab-badge.svg?logo=googlecolab&logoColor=yellow&color=blue&labelColor=grey" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
+</div>
+
+![Neurojedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=neurojedi&show_icons=true&theme=dark)
+
+
 
 
 
