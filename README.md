@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<a href="https://git.io/typing-svg" rel="nofollow">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&color=2397FF&width=435&lines=Pass+on+what+you+have+learned+-+Yoda" data-canonical-src="" style="max-width: 100%; center=True">
+<a href="https://git.io/typing-svg" rel="nofollow" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&color=2397FF&width=435&lines=Pass+on+what+you+have+learned+-+Yoda" data-canonical-src="" style="max-width: 100%;">
   </a>
 
 
