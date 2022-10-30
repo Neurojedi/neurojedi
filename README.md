@@ -19,8 +19,10 @@
 
 
 
+<div><img align="left" class="img" src="https://cdn.discordapp.com/attachments/698568065448673311/1036374218784395274/gnncombined.png" /></div>
 
-
+ <hr>
+</hr>
 
 <div><img style="height: auto; width: 55%;" align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=neurojedi&show_icons=true&theme=react" /></div>
 <div style="" align="left-center">
