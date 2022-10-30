@@ -1,5 +1,5 @@
 
-<div><img width="120" align="left" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1021058958208815134/grkmakgl13_neuron_brain_connectomics_nebula_milkyway_quasar_bra_c2d3db9d-3f08-404f-8d8c-61f4b8b40437.png" /></div>
+<div><img width="120" align="left" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1036366944225468456/gorkemai13_arcane_league_of_legends_quasar_milkyway_brain_neuro_33bbf3e0-7c4c-401e-8d65-4d6e89b57109.png" /></div>
 
 
 <div align="center" >
@@ -7,6 +7,10 @@
  
 <a align="center" dir="auto" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&pause=1000&color=3896F7&center=true&width=435&lines=Pass+on+what+you+have+learned+-+Yoda" alt="Typing SVG" /></a>
 </div>
+
+<div><img width="120" align="right" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1036367000370425906/gorkemai13_arcane_league_of_legends_quasar_milkyway_brain_neuro_df752ee8-66a4-4800-ab7c-aee9c5196961.png" /></div>
+
+
 
  <hr>
 </hr>
