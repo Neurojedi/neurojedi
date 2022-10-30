@@ -43,14 +43,13 @@
  
 <a href="#"><img alt="Jupyter" src="https://camo.githubusercontent.com/4fdc7fc007e28e85b6d2c973300205839144be47e77831923d762560089fa97a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f6c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
-
 <a href="#"><img alt="SublimeText" src="https://img.shields.io/badge/sublime_text-%23575757?logo=sublimetext&logoColor=important" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="Colab" src="https://img.shields.io/badge/colab-badge.svg?logo=googlecolab&logoColor=yellow&color=blue&labelColor=grey" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
 
 
 
-<span style="white-space: pre-line"></span>
+<span style="white-space: pre-line">@Model.CommentText</span>
 
 
 
