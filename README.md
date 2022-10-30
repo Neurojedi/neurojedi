@@ -32,7 +32,7 @@
 
 <div><img style="height: auto; width: 57%;" align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=neurojedi&show_icons=true&theme=react" /></div>
 <div style="" align="left-center">
-<h4> 🛠️ Favorite Tools: </h4>
+<h3> 🛠️ Favorite Tools: </h3>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython" align="right"><img alt="Python" src="https://camo.githubusercontent.com/808dfd4514d73d808f2a42e033ec59d350a25356be62824be52e3b258afeb5e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
  <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/OCTAVE-darkblue?logo=octave&logoColor=fcd683" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://camo.githubusercontent.com/5735758cfb0bb214ab021fd1e6f35f638efd2e4dbd85ad6888c313696be817ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c615465582d3030383038302e7376673f6c6f676f3d4c61546558266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&amp;logoColor=white" style="max-width: 100%;"></a>
