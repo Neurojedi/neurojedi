@@ -11,8 +11,8 @@
 - 🎓 I’m a fourth-year Molecular Biology and Genetics student who is also double-majoring (3rd year) in Software Engineering.
 - 🧠 My main research interest is Neuroscience where I use Machine Learning and Deep Learning for analysis of signals and images. In addition, I am working on using gene editing techniques for treatment of neurological genetic disorders. More specifically, I am interested in using ML/DL for analysis of Neural Manifolds/Spaces using connectome and image data as well as I am interested in developing novel lentiviral vectors for transfusing CRISPR systems to neurons in order to treat people with neurological rare diseases.
 - 💻 Here I will be sharing my Machine Learning and Deep Learning notes as well as my projects for medical data analysis (generally neural data). Furthermore, my plan is also to share genomic data analysis and bioinformatics stuff.
-- ⚡ I love listening to AC/DC, Guns N' Roses, Halestorm, Nightwish, Kiss, Metallica, Black Sabbath, and Iron Maiden. Also I have a science history blog on Medium.
-<a href="#"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
+- ⚡ I love listening to AC/DC, Guns N' Roses, Halestorm, Nightwish, Kiss, Metallica, Black Sabbath, and Iron Maiden. Also I have a science history blog on 
+<a href="https://gorkem-akgul.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
 
 
