@@ -1,5 +1,5 @@
 
-<div><img width="100" align="left" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1021058958208815134/grkmakgl13_neuron_brain_connectomics_nebula_milkyway_quasar_bra_c2d3db9d-3f08-404f-8d8c-61f4b8b40437.png" /></div>
+<div><img width="120" align="left" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1021058958208815134/grkmakgl13_neuron_brain_connectomics_nebula_milkyway_quasar_bra_c2d3db9d-3f08-404f-8d8c-61f4b8b40437.png" /></div>
 
 
 <div align="center" >
