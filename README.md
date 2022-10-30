@@ -1,6 +1,6 @@
 
 <div align="center" >
- <style>
+
 h2 { 
     display: block;
     font-size: 0.9em;
@@ -10,7 +10,6 @@ h2 {
     margin-right: 0;
     font-weight: bold;
 }
-</style>
 <h2> Hi 👋, I'm Gorkem </h2>
 
  
