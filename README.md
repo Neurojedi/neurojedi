@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I am Gorkem
 
 <!--
 **Neurojedi/neurojedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&color=2397FF&width=435&lines=Pass+on+what+you+have+learned+-+Yoda)](https://git.io/typing-svg)
 
+<hr>
+</hr>
 
 <div><img style="height: auto; width: 50%;" align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=neurojedi&show_icons=true&theme=react" /></div>
 <div style="" align="left-center">
