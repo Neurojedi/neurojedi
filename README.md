@@ -1,5 +1,5 @@
 
-<div><img width="120" align="left" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1036366944225468456/gorkemai13_arcane_league_of_legends_quasar_milkyway_brain_neuro_33bbf3e0-7c4c-401e-8d65-4d6e89b57109.png" /></div>
+<div><img width="120" align="left" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1036370309663707206/diffresult.png" /></div>
 
 
 <div align="center" >
