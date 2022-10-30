@@ -1,6 +1,6 @@
 
 <div align="center" >
-  <div style="font-size:400%;">Hi 👋, I'm Gorkem</div>
+  <div style="font-size:40px"> Hi 👋, I'm Gorkem</div>
 
 
  
