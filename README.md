@@ -1,6 +1,10 @@
 
 <div align="center" >
-  <div style="font-size:40px"> Hi 👋, I'm Gorkem</div>
+@settings h2{
+  display: inline;
+}
+  
+<h2> Hi 👋, I'm Gorkem </h2>
 
 
  
