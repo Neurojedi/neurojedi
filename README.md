@@ -1,8 +1,8 @@
 
 <div align="center" >
-<p align="center">
-  <h3 style="display:inline; font-size:400%;" align="center" dir="auto"> Hi 👋, I'm Gorkem </h3>
-</p>
+  <div style="font-size:400%;">Hi 👋, I'm Gorkem</div>
+
+
  
  
  
