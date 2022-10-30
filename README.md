@@ -1,21 +1,17 @@
 
 <div align="center" >
-@settings h2{
-  display: inline;
-}
-  
-<h2> Hi 👋, I'm Gorkem </h2>
-
-
- 
- 
- 
- 
 <a align="center" dir="auto" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&pause=1000&color=3896F7&center=true&width=435&lines=Pass+on+what+you+have+learned+-+Yoda" alt="Typing SVG" /></a>
+  
+<h1> Hi 👋, I'm Gorkem </h1>
+
+
+ 
+ 
+ 
+ 
+
 </div>
 
- <hr>
-</hr>
 
 <div><img width="350" align="left" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1036370309663707206/diffresult.png" /></div>
 
