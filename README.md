@@ -19,7 +19,6 @@
 
 
 
-<div><img align="left" class="img" src="https://cdn.discordapp.com/attachments/698568065448673311/1036374218784395274/gnncombined.png" /></div>
 
 <hr> </hr>
 
@@ -50,16 +49,7 @@
 
 
 
-<span style="white-space: pre-line"></span>
-
-
-
-
-
-
-<div><img align="left" class="img" src="https://cdn.discordapp.com/attachments/698568065448673311/1036374218784395274/gnncombined.png" /></div>
-
-
-
 ![snake gif](https://github.com/neurojedi/neurojedi/blob/output/github-contribution-grid-snake.gif)
 
+
+ <div><img align="left" class="img" src="https://cdn.discordapp.com/attachments/698568065448673311/1036374218784395274/gnncombined.png" /></div>
