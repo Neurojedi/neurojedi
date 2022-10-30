@@ -1,8 +1,8 @@
 
-
+<div><img align="left" class="img" src="https://cdn.discordapp.com/attachments/698568065448673311/1036374218784395274/gnncombined.png" /></div>
 <div align="center" >
 <p align="center">
-  <h2 style="display:inline; font-size:400%;" align="center" dir="auto"> Hi 👋, I'm Gorkem </h2>
+  <h3 style="display:inline; font-size:400%;" align="center" dir="auto"> Hi 👋, I'm Gorkem </h3>
 </p>
  
  
@@ -58,4 +58,4 @@
 ![snake gif](https://github.com/neurojedi/neurojedi/blob/output/github-contribution-grid-snake.gif)
 
 
- <div><img align="left" class="img" src="https://cdn.discordapp.com/attachments/698568065448673311/1036374218784395274/gnncombined.png" /></div>
+
