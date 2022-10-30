@@ -1,6 +1,6 @@
 
 <div align="center" >
-<h1 width="16" height="16"> Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Gorkem</h1>
+<a width="16" height="16"> Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Gorkem</a>
  
 <a align="center" dir="auto" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&pause=1000&color=3896F7&center=true&width=435&lines=Pass+on+what+you+have+learned+-+Yoda" alt="Typing SVG" /></a>
 </div>
