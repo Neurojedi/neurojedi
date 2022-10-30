@@ -1,5 +1,5 @@
 
-<div><img width="120" align="left" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1036370309663707206/diffresult.png" /></div>
+<div><img width="200" align="left" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1036370309663707206/diffresult.png" /></div>
 
 
 <div align="center" >
