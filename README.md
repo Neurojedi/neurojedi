@@ -49,7 +49,7 @@
 
 
 
-<span style="white-space: pre-line">@Model.CommentText</span>
+<span style="white-space: pre-line"></span>
 
 
 
