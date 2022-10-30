@@ -43,15 +43,14 @@
  
 <a href="#"><img alt="Jupyter" src="https://camo.githubusercontent.com/4fdc7fc007e28e85b6d2c973300205839144be47e77831923d762560089fa97a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f6c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;"></a>
+
 <a href="#"><img alt="SublimeText" src="https://img.shields.io/badge/sublime_text-%23575757?logo=sublimetext&logoColor=important" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="Colab" src="https://img.shields.io/badge/colab-badge.svg?logo=googlecolab&logoColor=yellow&color=blue&labelColor=grey" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
-<a href="#"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
 
 
-
+<span style="white-space: pre-line"></span>
 
 
 
