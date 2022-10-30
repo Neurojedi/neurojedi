@@ -55,9 +55,7 @@
 <a href="#"><img alt="Colab" src="https://img.shields.io/badge/colab-badge.svg?logo=googlecolab&logoColor=yellow&color=blue&labelColor=grey" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
 
-
-
 ![snake gif](https://github.com/neurojedi/neurojedi/blob/output/github-contribution-grid-snake.gif)
 
-
+All the images in this page has been generated using a diffusion model
 
