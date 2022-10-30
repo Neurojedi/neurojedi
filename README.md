@@ -1,6 +1,6 @@
 
 <div align="center" >
-<h2> Hi 👋, I'm Gorkem </h2>
+<h2 style="display: inline"> Hi 👋, I'm Gorkem </h2>
 
  
 <a align="center" dir="auto" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&pause=1000&color=3896F7&center=true&width=435&lines=Pass+on+what+you+have+learned+-+Yoda" alt="Typing SVG" /></a>
