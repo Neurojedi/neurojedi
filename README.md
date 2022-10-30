@@ -58,7 +58,7 @@
 
 
 
-
+<div><img width="350" align="left" class="img" src="https://cdn.discordapp.com/attachments/698568065448673311/1036374218784395274/gnncombined.png" /></div>
 
 
 
