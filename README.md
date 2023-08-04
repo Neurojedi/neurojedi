@@ -57,5 +57,5 @@
 
 ![Snake animation](https://github.com/neurojedi/neurojedi/blob/output/github-contribution-grid-snake.svg)
 
-All the images in this page has been generated using a diffusion model
+All the images on this page have been generated using a diffusion model.
 
