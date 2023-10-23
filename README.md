@@ -54,7 +54,7 @@
 <a href="#"><img alt="SublimeText" src="https://img.shields.io/badge/sublime_text-%23575757?logo=sublimetext&logoColor=important" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="Colab" src="https://img.shields.io/badge/colab-badge.svg?logo=googlecolab&logoColor=yellow&color=blue&labelColor=grey" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
-![Snake animation](https://github.com/Neurojedi/neurojedi/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/Neurojedi/neurojedi/blob/output/dist/github-snake-dark.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Neurojedi/neurojedi/blob/output/github-snake-dark.svg" />
