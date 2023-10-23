@@ -59,7 +59,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Neurojedi/neurojedi/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Neurojedi/neurojedi/blob/output/github-snake.svg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/Neurojedi/neurojedi/blob/output/github-snake.svg">
+  <img alt="" src="https://github.com/Neurojedi/neurojedi/blob/output/github-snake.svg">
 </picture>
 
 All the images on this page have been generated using a diffusion model.
