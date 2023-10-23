@@ -57,8 +57,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="neurojedi/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="neurojedi/github-snake.svg" />
+  <img alt="github-snake" src="neurojedi/github-snake.svg" />
 </picture>
 
 All the images on this page have been generated using a diffusion model.
