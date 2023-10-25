@@ -16,7 +16,7 @@
 <div><img width="350" align="left" class="img" src="https://cdn.discordapp.com/attachments/1021042482861068308/1036370309663707206/diffresult.png" /></div>
 
 - 🎓 I received my BSc in Molecular Biology and Genetics and I am in my last year of studies in Software Engineering where I double-major.
-- 🧠 My primary research focus lies in Neuroscience, where I leverage Machine Learning and Deep Learning to analyze Neural Manifolds/Spaces using connectome and image data. During my bachelor's, I also worked heavily on gene editing techniques for treatment of neurological rare diseases.
+- 🧠 My primary research focus lies in Neuroscience, where I leverage Machine Learning and Deep Learning to analyze Neural Manifolds/Spaces using connectome and image data. During my undergraduate years in Molecular Biology and Genetics, I extensively researched gene editing techniques for treating rare neurological diseases, specifically focusing on the development of novel lentiviral vectors to deliver CRISPR systems to neurons, with the goal of improving treatment options for individuals with these conditions.
 - 💻 Here I will be sharing my Machine Learning and Deep Learning notes as well as my projects for medical data analysis (generally neural data). Furthermore, my plan is also to share genomic data analysis and bioinformatics stuff.
 - ⚡ I love listening to AC/DC, Guns N' Roses, Halestorm, Nightwish, Kiss, Metallica, Black Sabbath, and Iron Maiden. Also I have a science history blog on 
 <a href="https://gorkem-akgul.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
