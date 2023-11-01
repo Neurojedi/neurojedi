@@ -62,5 +62,4 @@
   <img alt="" src="https://github.com/Neurojedi/neurojedi/blob/output/github-snake.svg">
 </picture>
 
-All the images on this page have been generated using a diffusion model.
 
