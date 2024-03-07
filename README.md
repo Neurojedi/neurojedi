@@ -13,7 +13,7 @@
 </div>
 
 
-<div><img width="350" align="left" class="img" src="" /></div>
+<div><img width="350" align="left" class="img" src="https://media.discordapp.net/attachments/1022063222490144779/1215322110449164319/diffresult.png?ex=65fc53ea&is=65e9deea&hm=37f3db44940d9b6e140ca51aceb739d23f73f1c9914552131e188a1d63043745&=&format=webp&quality=lossless&width=627&height=627" /></div>
 
 - 🎓 I received my BSc in Molecular Biology and Genetics and I am in my last year of studies in Software Engineering where I double-major.
 - 🧠 My primary research focus lies in Neuroscience, where I leverage Machine Learning and Deep Learning to analyze Neural Manifolds/Spaces using connectome and image data. During my undergraduate years in Molecular Biology and Genetics, I extensively researched gene editing techniques for treating rare neurological diseases, specifically focusing on the development of novel lentiviral vectors to deliver CRISPR systems to neurons, with the goal of improving treatment options for individuals with these conditions.
