@@ -13,7 +13,7 @@
 </div>
 
 
-<div><img width="350" align="left" class="img" src="https://media.discordapp.net/attachments/1022063222490144779/1215322110449164319/diffresult.png?ex=65fc53ea&is=65e9deea&hm=37f3db44940d9b6e140ca51aceb739d23f73f1c9914552131e188a1d63043745&=&format=webp&quality=lossless&width=627&height=627" /></div>
+<div><img width="350" align="left" class="img" src="https://cdn.discordapp.com/attachments/1022063222490144779/1232086572124602378/diffresult.png?ex=66282d89&is=6626dc09&hm=86ee4358ba7da840eb78e2e62b2561ba509685c539d822c4c89d2315d6fd4cf8&" /></div>
 
 - 🎓 I received my BSc in Molecular Biology and Genetics and I am in my last year of studies in Software Engineering where I double-major.
 - 🧠 My primary research focus lies in Neuroscience, where I leverage Machine Learning and Deep Learning to analyze Neural Manifolds/Spaces using connectome and image data. During my undergraduate years in Molecular Biology and Genetics, I extensively researched gene editing techniques for treating rare neurological diseases, specifically focusing on the development of novel lentiviral vectors to deliver CRISPR systems to neurons, with the goal of improving treatment options for individuals with these conditions.
@@ -25,7 +25,7 @@
 
 
 <hr> </hr>
-<div><img class="img" src="https://media.discordapp.net/attachments/1022063222490144779/1215320866330775592/gnncombined.png?ex=65fc52c2&is=65e9ddc2&hm=4a5c4d6d6a4746ba2ea02a5e16fb06abb646bdfe76f2a834d40a5cfafb6ee985&=&format=webp&quality=lossless&width=1166&height=294" /></div>
+<div><img class="img" src="https://cdn.discordapp.com/attachments/1022063222490144779/1232077095417548820/gnncombined.png?ex=662824b6&is=6626d336&hm=d0be383ac0c75d1fe1c05d443390254a2a4e994dbdab48cf558b0557d71b10b9&" /></div>
 
 <hr> </hr>
 
