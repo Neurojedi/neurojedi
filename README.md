@@ -25,7 +25,7 @@
 
 
 <hr> </hr>
-<div><img class="img" src="https://cdn.discordapp.com/attachments/1022063222490144779/1232077095417548820/gnncombined.png?ex=662824b6&is=6626d336&hm=d0be383ac0c75d1fe1c05d443390254a2a4e994dbdab48cf558b0557d71b10b9&" /></div>
+<div><img class="img" src="gnncombined.png" /></div>
 
 <hr> </hr>
 
