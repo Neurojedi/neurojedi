@@ -29,7 +29,7 @@
 
 <hr> </hr>
 
-<div><img style="height: auto; width: 57%;" align="left" class="img" src="https://github-stats-extended.vercel.app/api?username=Neurojedi&include_all_commits=true&theme=midnight-purple" /></div>
+<div><img style="height: auto; width: 57%;" align="left" class="img" src="https://github-stats-extended.vercel.app/api?username=Neurojedi&include_all_commits=true&theme=github_dark" /></div>
 <div style="" align="left-center">
 <h3> 🛠️ Favorite Tools: </h3>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython" align="right"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
