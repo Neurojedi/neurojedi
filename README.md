@@ -15,9 +15,9 @@
 
 <div><img width="350" align="left" class="img" src="diffresult.png" /></div>
 
-- 🎓 I received my BSc in Molecular Biology and Genetics and I am in my last year of studies in Software Engineering where I double-major.
-- 🧠 My primary research focus lies in Neuroscience, where I leverage Machine Learning and Deep Learning to analyze Neural Manifolds/Spaces using connectome and image data. During my undergraduate years in Molecular Biology and Genetics, I extensively researched gene editing techniques for treating rare neurological diseases, specifically focusing on the development of novel lentiviral vectors to deliver CRISPR systems to neurons, with the goal of improving treatment options for individuals with these conditions.
-- 💻 Here I will be sharing my Machine Learning and Deep Learning notes as well as my projects for medical data analysis (generally neural data). Furthermore, my plan is also to share genomic data analysis and bioinformatics stuff.
+- 🎓 I received my BSc in Molecular Biology and Genetics and in Software Engineering from Üsküdar University in Istanbul as a double major. I am currently pursuing my Master's in Computational Neuroscience.
+- 🧠 My primary research focus lies in Neuroscience. I am interested in how neural information processing works across both biological and artificial neural networks. To read more about my research interests, please check out my website: [Neurojedi](https://neurojedi.github.io/)
+- 💻 Here, I share my notes from various Machine Learning resources, small course projects, and code from some of my research projects.
 - ⚡ I love listening to AC/DC, Guns N' Roses, Halestorm, Nightwish, Kiss, Metallica, Black Sabbath, and Iron Maiden. Also I have a science history blog on 
 <a href="https://gorkem-akgul.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
 
